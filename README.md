@@ -10,7 +10,7 @@
 - [Чурсина Анна ]("") - Дизайнер.
 
 ## Сервисы командной разработки
-+ [Figma]()
++ [Figma](https://www.figma.com/design/LwB0QJmF4J4cmRZOH3YpcC/LingCards%3A-UI-Kit-%26-Brandbook?node-id=15-2&t=qEMmEIkHRCVHQK4i-1)
 + [Jira - доска задач]() 
 + [Miro (Диаграммы и roadmap см. здесь)](https://miro.com/app/board/uXjVIOZVmws=/?share_link_id=181565259210)
 
